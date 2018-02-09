@@ -6,3 +6,4 @@ and
 =======
 and
 >>>>>>> feature2
+test
